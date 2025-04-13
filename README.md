@@ -65,7 +65,7 @@ This project demonstrates how to generate handwritten digit images using a **Gen
 Below are the generated digits at various training stages (save and commit your images into the `outputs/` folder):
 
 ### 🔢 Epoch 1
-![Epoch 1](outputs/epoch_001.png)
+![Epoch 1](/Screenshot 2025-04-13 234610.png)
 
 ### 🔢 Epoch 20
 ![Epoch 20](outputs/epoch_020.png)
